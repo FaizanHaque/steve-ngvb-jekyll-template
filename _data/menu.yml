@@ -7,10 +7,24 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Code"
+  href: "/code/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Ocean/Earth Sciences"
+      subhref: "/code/ocean-and-earth-sciences/"
+    - subtitle: "Agent Based Modelling"
+      subhref: "/code/agent-based-modelling/"
+    - subtitle: "Numerical Methods"
+      subhref: "/code/numerical-methods/"
+
+- title: "Resources"
+  href: "/resources/"
+  subcategories:
+    - subtitle: "Reading List"
+      subhref: "/resources/reading-list"
+    - subtitle: "Web"
+      subhref: "/resources/web"
+    - subtitle: "Visuals"
+      subhref: "/resources/visuals"
+
+
