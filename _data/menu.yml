@@ -17,6 +17,15 @@
     - subtitle: "Numerical Methods"
       subhref: "/code/numerical-methods/"
 
+      
+    
+
+
+
+- title: "Quotes"
+  href: "/quotes/"
+
+    
 - title: "Resources"
   href: "/resources/"
   subcategories:
