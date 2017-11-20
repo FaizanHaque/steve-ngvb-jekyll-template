@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Diversity"
 date:   2015-08-16 15:36:27
-permalink: /blog/first-post
+permalink: /future-posts/Diversity
 categories: jekyll update
 ---
