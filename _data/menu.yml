@@ -26,14 +26,21 @@
   href: "/quotes/"
 
     
-- title: "Resources"
-  href: "/resources/"
+- title: "Reading List"
+  href: "/reading-list/"
+  subcategories:
+    - subtitle: "Literature"
+      subhref: "/reading-list/literature"
+    - subtitle: "Online Resources"
+      subhref: "/reading-list/web"
+
+
+- title: "Visualization"
+  href: "/visualization/"
   subcategories:
     - subtitle: "Reading List"
-      subhref: "/resources/reading-list"
+      subhref: "/visualization/made-by-me"
     - subtitle: "Web"
-      subhref: "/resources/web"
-    - subtitle: "Visuals"
-      subhref: "/resources/visuals"
+      subhref: "/visualization/web"
 
 
