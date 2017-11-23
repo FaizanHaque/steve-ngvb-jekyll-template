@@ -25,6 +25,9 @@ https://www.nap.edu/read/6061/chapter/13#184
 
 Articles:
 
+Science Is Not About Certainty (2014) by Carlo Rovelli
+https://newrepublic.com/article/118655/theoretical-phyisicist-explains-why-science-not-about-certainty
+
 
 Talks/Speeches:
 "You and Your Research" (1986) by Richard Hamming (transcribed by J. F. Kaiser) 

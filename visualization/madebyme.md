@@ -8,6 +8,6 @@ permalink: /visualization/made-by-me/
 
  
 
-# Eddy Kinetic Energy
-# Logarithmic spiral
-# concho spiral
+[]Eddy Kinetic Energy
+[] Logarithmic spiral
+[] concho spiral

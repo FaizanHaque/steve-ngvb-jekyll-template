@@ -19,7 +19,7 @@
 - title: "Visualization"
   href: "/visualization/"
   subcategories:
-    - subtitle: "Reading List"
+    - subtitle: "Made by me"
       subhref: "/visualization/made-by-me"
     - subtitle: "Web"
       subhref: "/visualization/web"
