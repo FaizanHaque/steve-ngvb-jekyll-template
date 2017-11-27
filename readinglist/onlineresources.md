@@ -23,13 +23,42 @@ https://projecteuclid.org/euclid.aos/1043351246
 (To read)LARS ONSAGER (1991) by Christopher Longuet-Higgins and Michael E. Fisher 
 https://www.nap.edu/read/6061/chapter/13#184
 
-Articles:
+Articles/Essays:
 
 Science Is Not About Certainty (2014) by Carlo Rovelli
 https://newrepublic.com/article/118655/theoretical-phyisicist-explains-why-science-not-about-certainty
+
+
+Three essays on Fluid Dynamics (to read)
+
+https://ocw.mit.edu/resources/res-12-001-topics-in-fluid-dynamics-spring-2010/
+
+
+Freeman Dyson on w
+"Why is Maxwell's theory so hard to understand ?"
+
+why Maxwell's theory is so hard to understand.
+
+
 
 
 Talks/Speeches:
 "You and Your Research" (1986) by Richard Hamming (transcribed by J. F. Kaiser) 
 
 https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+
+
+
+Lecture Notes:
+Introduction to Physical Oceanography by Lisa Beal
+
+http://www.rsmas.miami.edu/users/lbeal/MPO603/MPO%20503%20-%20Introduction%20to%20Physical%20Oceanography.html
+
+
+Davud Tong's nktes on EnM
+
+
+http://www.damtp.cam.ac.uk/user/tong/em.html
+
+
+
