@@ -12,3 +12,12 @@ http://www.eamesoffice.com/the-work/powers-of-ten/
 Perpetual Ocean by NASA/Goddard Space Flight Center Scientific Visualization Studio
 http://svs.gsfc.nasa.gov/3827 
 
+
+Java Ocean Atlas 
+http://joa.ucsd.edu/home
+
+
+Coriolis Force Affecting Wind
+
+
+http://www.classzone.com/books/earth_science/terc/content/visualizations/es1905/es1905page01.cfm
