@@ -28,6 +28,11 @@ Articles:
 Science Is Not About Certainty (2014) by Carlo Rovelli
 https://newrepublic.com/article/118655/theoretical-phyisicist-explains-why-science-not-about-certainty
 
+The Deborah Number by M. Reiner
+physicstoday.scitation.org/doi/pdf/10.1063/1.3051374
+
+An Oceanographer's Perspective by Joseph L Reid
+http://www.calcofi.org/publications/calcofireports/v23/Vol_23_Reid.pdf
 
 Talks/Speeches:
 "You and Your Research" (1986) by Richard Hamming (transcribed by J. F. Kaiser) 
