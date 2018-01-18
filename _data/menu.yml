@@ -5,33 +5,13 @@
 
 - title: "Code"
   href: "/code/"
-  subcategories:
-    - subtitle: "Ocean/Earth Sciences"
-      subhref: "/code/ocean-and-earth-sciences/"
-    - subtitle: "Agent Based Modelling"
-      subhref: "/code/agent-based-modelling/"
-    - subtitle: "Numerical Methods"
-      subhref: "/code/numerical-methods/"
 
       
     
 
-- title: "Visualization"
-  href: "/visualization/"
-  subcategories:
-    - subtitle: "Made by me"
-      subhref: "/visualization/made-by-me"
-    - subtitle: "Web"
-      subhref: "/visualization/web"
 
-
-- title: "Reading List"
-  href: "/reading-list/"
-  subcategories:
-    - subtitle: "Literature"
-      subhref: "/reading-list/literature"
-    - subtitle: "Online Resources"
-      subhref: "/reading-list/web"
+- title: "Resources"
+  href: "/resources/"
 
 
 
