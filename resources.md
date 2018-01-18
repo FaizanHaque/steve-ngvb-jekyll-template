@@ -34,19 +34,14 @@ permalink: /resources/
 
 
 ### Talks/Speeches:
-["You and Your Research" (1986) by Richard Hamming (transcribed by J. F. Kaiser)]
-( https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+["You and Your Research" (1986) by Richard Hamming (transcribed by J. F. Kaiser)]( https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 
 
 ### Lecture Notes:
-[Introduction to Physical Oceanography by Lisa Beal] (http://www.rsmas.miami.edu/users/lbeal/MPO603/MPO%20503%20-%20Introduction%20to%20Physical%20Oceanography.html)
+[Introduction to Physical Oceanography by Lisa Beal]( http://www.rsmas.miami.edu/users/lbeal/MPO603/MPO%20503%20-%20Introduction%20to%20Physical%20Oceanography.html)
+
 [David Tong's notes on EnM]( http://www.damtp.cam.ac.uk/user/tong/em.html)
-
-
-
-
-
 
 # Visualization
 [Powers of Ten (TM) by Eameses]( http://www.eamesoffice.com/the-work/powers-of-ten/)
