@@ -34,7 +34,7 @@ Similar to above, except now instead of assigning colors, each bug is assigned a
 
 
 
-#By others:
+# By others:
 
 
 
