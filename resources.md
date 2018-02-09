@@ -12,6 +12,9 @@ permalink: /resources/
 
 [Geophysical fluid dynamics: whence, whither and why? (2017) by Geoffrey K. Vallis]( http://rspa.royalsocietypublishing.org/content/472/2192/20160140)
 
+[The origins of computer weather prediction and climate modeling Peter Lynch]
+(http://www.elsevierscitech.com/emails/physics/climate/the_origins_of_computer_weather_prediction.pdf)
+(To read)
 
 ### Short Biographies:
 
